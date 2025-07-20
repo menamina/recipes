@@ -1,0 +1,38 @@
+
+body {
+  font-style: italic;
+  font-size: medium;
+  font-weight: 500;
+  
+}
+
+.header1 {
+  text-align: center;
+  font-size: 20px;
+  margin: 20px 0;
+  padding: 10px;
+}
+
+.drink-pics {
+  display: block;
+  text-align: center;
+}
+
+.drink-pics span {
+  display: inline-block;
+  margin: 15px;
+  text-align: center;
+}
+
+.drink-pics img {
+  width: 180px;
+}
+
+.drink-pics a {
+  font-size: 16px;
+  color: rgb(201, 163, 169);
+}
+
+.img4 img {
+  height: 280px;
+}

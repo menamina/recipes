@@ -1,0 +1,43 @@
+img.img1 {
+
+    display: block;
+    height: auto;
+    width: 360px;
+    margin-top: -20px;
+    
+}
+.top-word {
+    margin-left: 240px;
+    margin-top: 30px;
+}
+
+.main-text {
+    margin-left: 410px;
+    margin-right: 500px;
+    margin-top: -330px;
+    font-size: 18px;
+
+}
+
+.ingreed {
+    text-decoration: underline;
+    font-style: italic;
+}
+/* this uses div class which is longer than just putting h3 into a class then 
+using h3.ingreed or just .ingreed like below */
+
+.ingreed2 {
+    text-decoration: underline;
+    font-style: italic;
+}
+
+/* h3 class=ingreed2 is quicker and more effecient than dying out an extra div class
+especially bc h3 is block style anyway and so is div
+h3.ingreed2 is how you call it OR .ingreed2 */
+
+.link {
+    display: block;
+    color: pink;
+    margin-left: 450px;
+    margin-top: 45px;
+}

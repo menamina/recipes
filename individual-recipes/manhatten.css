@@ -7,6 +7,7 @@
     margin-left: 260px;
     font-weight: 500;
     margin-bottom: -1px;
+    margin-top: 50px;
 }
 
 
@@ -15,12 +16,15 @@
     margin-left: 450px;
     margin-right: 450px;
     margin-top: -365px;
+    font-size: 18px;
 }
 
 .all-text-right a {
     color: rgb(246, 190, 199);
-    margin-left: 300px;
-    margin-top: 30px;
+    margin-left: 400px;
+    display: block;
+    margin-top: 60px;
+    
 }
 
 .all-text-right h3 {
